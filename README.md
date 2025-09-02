@@ -1,6 +1,6 @@
 # Education
-### Bachelor's in Information Sciences + Data Science
-### University of Illinois Urbana-Champaign '28
+Bachelor's in Information Sciences + Data Science
+University of Illinois Urbana-Champaign '28
 # Data Science Projects
 
 ## Project Mosaic
