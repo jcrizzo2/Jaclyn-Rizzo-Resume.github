@@ -5,6 +5,7 @@
 
 ## Project Mosaic
 [Mosaic GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/d6bf5c37b389c9440b3d171d012d8c0f8a32ff73/mosaic.ipynb)
+
 Built a Python program that generated an image mosaic by arranging small color tiles into a larger picture.
 ![Image Created with Project](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/bb8811fa2dc22204a88197346bab2c695e0e5156/mosaic-web.jpg)
 ## Liverpool Football Data Analysis
