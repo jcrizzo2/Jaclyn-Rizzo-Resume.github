@@ -4,6 +4,7 @@
 # Data Science Projects
 
 ## Project Mosaic
+https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/b968885b27f9488e04c6e477916b6eca47633ba6/project2.ipynb 
 Built a Python program that generated an image mosaic by arranging small color tiles into a larger picture.
 ## Liverpool Football Data Analysis
 Created data visualizations by grouping key metrics, highlighting patterns and trends in player performance.
