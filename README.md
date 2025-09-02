@@ -14,3 +14,10 @@ Built a Python program that generated an image mosaic by arranging small color t
 
 Created data visualizations by grouping key metrics, highlighting patterns and trends in player performance.
 Conducted a two-sample t-test on the goals column, interpreted the p-value, and evaluated statistical significance.
+
+## C++ Data Structures & Algorithms Visualizer
+[Visualizer GitHub Visualizer]()
+
+Implemented and visualized core data structures (linked list, stack, queue, binary tree) in C++ using object-oriented programming and modular design.
+Developed an interactive console-based application to simulate real-time insertions, deletions, and traversals for educational purposes.
+Applied clean coding practices with header/source file separation, dynamic memory management, and user-friendly console visualizations.
