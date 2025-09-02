@@ -16,7 +16,7 @@ Created data visualizations by grouping key metrics, highlighting patterns and t
 Conducted a two-sample t-test on the goals column, interpreted the p-value, and evaluated statistical significance.
 
 ## C++ Data Structures & Algorithms Visualizer
-[Visualizer GitHub Visualizer](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/a20e681bb30fd870245bb34a71b2a082edc330e5/Project.cpp)
+[Visualizer GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/a20e681bb30fd870245bb34a71b2a082edc330e5/Project.cpp)
 
 Implemented and visualized core data structures (linked list, stack, queue, binary tree) in C++ using object-oriented programming and modular design.
 Developed an interactive console-based application to simulate real-time insertions, deletions, and traversals for educational purposes.
