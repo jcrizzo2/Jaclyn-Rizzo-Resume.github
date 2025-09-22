@@ -5,7 +5,7 @@ University of Illinois Urbana-Champaign '27
 # Data Science Projects
 
 ## Video Games Data Science Project
-[Video Games GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/3e98442449f30977f77c657e80bef497adf0f100/project_01_template.ipynb)
+[Video Games GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/ca2f69c2c3e2532ce3c0f156090642f31271b029/project_01_template.ipynb)
 
 Analyzed a video game dataset to examine how U.S. sales vary across consoles, applying data cleaning, summary statistics, and visualization techniques to ensure accurate comparisons. The results highlight platform-specific sales trends, offering insights for data-driven market strategy in the gaming industry.
 
