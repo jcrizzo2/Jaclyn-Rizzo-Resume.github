@@ -4,6 +4,8 @@ Bachelor's in Information Sciences + Data Science
 University of Illinois Urbana-Champaign '28
 # Data Science Projects
 
+## Video Games Data Science Project
+[Video Games GitHub Repository]()
 ## Project Mosaic
 [Mosaic GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/d6bf5c37b389c9440b3d171d012d8c0f8a32ff73/mosaic.ipynb)
 
