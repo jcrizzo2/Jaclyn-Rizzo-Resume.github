@@ -5,7 +5,7 @@ University of Illinois Urbana-Champaign '27
 # Data Science Projects
 
 ## Video Games Data Science Project
-[Video Games GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/db273ad24a9f6efd259109ec8a4c673ec7552103/project_01_template.ipynb)
+[Video Games GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/3e98442449f30977f77c657e80bef497adf0f100/project_01_template.ipynb)
 ## Project Mosaic
 [Mosaic GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/d6bf5c37b389c9440b3d171d012d8c0f8a32ff73/mosaic.ipynb)
 
