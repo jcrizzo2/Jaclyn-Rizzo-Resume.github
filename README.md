@@ -1,5 +1,6 @@
 # Education
 Bachelor's in Information Sciences + Data Science
+Concentration in Data Analytics
 
 University of Illinois Urbana-Champaign '27
 # Data Science Projects
