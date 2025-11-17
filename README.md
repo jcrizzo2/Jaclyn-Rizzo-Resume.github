@@ -7,6 +7,8 @@ University of Illinois Urbana-Champaign '27
 ## NBA Longevity Classifer Analysis
 [NBA Classifier GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/2a2013eea743bcbc85d759a3c9151c783a692090/lab_12.ipynb)
 
+Built a logistic regression model to predict NBA player longevity using performance metrics (PTS, AST, REB, FG%). Evaluated model performance using a confusion matrix, accuracy/sensitivity/specificity calculations, and ROC–AUC analysis to assess classification thresholds.
+
 ## Video Game Console Analysis
 [Video Games GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/ca2f69c2c3e2532ce3c0f156090642f31271b029/project_01_template.ipynb)
 
