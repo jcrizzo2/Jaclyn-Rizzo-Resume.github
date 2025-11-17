@@ -6,6 +6,7 @@ University of Illinois Urbana-Champaign '27
 
 ## Pan American Health ML Shipping Calculator & Deployment Pipeline
 [ML Shipping Calculator – Design, Pipeline & Prototype](https://github.com/thatritikpatel/Shipping-Cost-Prediction/blob/54da4b46204bb1b175e983be94533a9350e810db/README.md)
+
 [Implementation & Code Breakdown](https://github.com/uiuc-ischool-center-health-informatics/paho-freight/blob/7449517ddd0dfc0bba38878e58d0c75815ddab20/Final.ipynb)
 
 This team project with PAHO showcases an end-to-end ML system for predicting shipping costs, covering data preprocessing, model training, and deployment in a functional web app. The first link provides the project overview and prototype, while the second link includes the full codebase with detailed explanations.
