@@ -5,6 +5,8 @@ University of Illinois Urbana-Champaign '27
 # Data Science Projects
 
 ## NBA Longevity Classifer Analysis
+[NBA Classifier GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/2a2013eea743bcbc85d759a3c9151c783a692090/lab_12.ipynb)
+
 ## Video Game Console Analysis
 [Video Games GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/ca2f69c2c3e2532ce3c0f156090642f31271b029/project_01_template.ipynb)
 
