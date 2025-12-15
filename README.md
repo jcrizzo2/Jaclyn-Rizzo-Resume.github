@@ -32,6 +32,7 @@ Built a Python program that generated an image mosaic by arranging small color t
 ## Center for Health Informatics
 
 Senior Data Science Project Leader	Jan 2025 - May 2025
+
 Assisted in data analysis and predictive modeling for a project on predicting HIV stockpile needs in 3+ countries
 Supported research efforts involving Gradient Boosting Machine(GBM), Random Forest, and XG Boost on data
 Led exploratory research on applying generative AI to transform medical education and enhance learning
