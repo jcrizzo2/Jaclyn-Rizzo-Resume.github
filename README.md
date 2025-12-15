@@ -3,7 +3,7 @@ Bachelor's in Information Sciences + Data Science
 
 Concentration in Data Analytics
 
-University of Illinois Urbana-Champaign '27
+University of Illinois Urbana-Champaign
 # Data Science Projects
 
 ## Pan American Health ML Shipping Calculator & Deployment Pipeline
