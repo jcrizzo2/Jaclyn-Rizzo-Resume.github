@@ -28,6 +28,14 @@ Analyzed a video game dataset to examine how U.S. sales vary across consoles, ap
 
 Built a Python program that generated an image mosaic by arranging small color tiles into a larger picture.
 ![Image Created with Project](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/bb8811fa2dc22204a88197346bab2c695e0e5156/mosaic-web.jpg)
+
+## Center for Health Informatics
+
+Senior Data Science Project Leader	Jan 2025 - May 2025
+Assisted in data analysis and predictive modeling for a project on predicting HIV stockpile needs in 3+ countries
+Supported research efforts involving Gradient Boosting Machine(GBM), Random Forest, and XG Boost on data
+Led exploratory research on applying generative AI to transform medical education and enhance learning
+
 ## Liverpool Football Data Analysis
 [Football GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/b968885b27f9488e04c6e477916b6eca47633ba6/project2.ipynb)
 
