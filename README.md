@@ -14,7 +14,8 @@ University of Illinois Urbana-Champaign
 This team project with PAHO showcases an end-to-end ML system for predicting shipping costs, covering data preprocessing, model training, and deployment in a functional web app. The first link provides the project overview and prototype, while the second link includes the full codebase with detailed explanations.
 
 ## Credit Card Fraud Detection Using Machine Learning
-[Credit Card Fraud Detection ML Repository](
+[Credit Card Fraud Detection ML Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/main/lab-03.html)
+[ipynb file/code](
 
 ## NBA Longevity Classifer Analysis
 [NBA Classifier GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/2a2013eea743bcbc85d759a3c9151c783a692090/lab_12.ipynb)
