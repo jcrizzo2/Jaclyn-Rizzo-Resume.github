@@ -15,7 +15,9 @@ This team project with PAHO showcases an end-to-end ML system for predicting shi
 
 ## Credit Card Fraud Detection Using Machine Learning
 [Credit Card Fraud Detection ML Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/main/lab-03.html)
-[ipynb file/code](
+[ipynb file/code](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/main/lab-03.ipynb)
+
+Developed a Random Forest classification model to identify fraudulent credit card transactions using transaction amounts and 28 anonymized features. Achieved 97.1% precision and 83.5% recall, applying cross-validation and classification threshold tuning to improve fraud detection. Evaluated performance using confusion matrices and F1-scores, analyzing class imbalance and the impact of false positives and false negatives on financial risk.
 
 ## NBA Longevity Classifer Analysis
 [NBA Classifier GitHub Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/2a2013eea743bcbc85d759a3c9151c783a692090/lab_12.ipynb)
