@@ -14,8 +14,7 @@ University of Illinois Urbana-Champaign
 This team project with PAHO showcases an end-to-end ML system for predicting shipping costs, covering data preprocessing, model training, and deployment in a functional web app. The first link provides the project overview and prototype, while the second link includes the full codebase with detailed explanations.
 
 ## Credit Card Fraud Detection Using Machine Learning
-[Credit Card Fraud Detection ML Repository](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/main/lab-03.html)
-[ipynb file/code](https://github.com/jcrizzo2/Jaclyn-Rizzo-Resume.github/blob/main/lab-03.ipynb)
+[View Full Project Report](./lab-03.html) | [View Python Notebook & Code](./lab-03.ipynb)
 
 Developed a Random Forest classification model to identify fraudulent credit card transactions using transaction amounts and 28 anonymized features. Achieved 97.1% precision and 83.5% recall, applying cross-validation and classification threshold tuning to improve fraud detection. Evaluated performance using confusion matrices and F1-scores, analyzing class imbalance and the impact of false positives and false negatives on financial risk.
 
